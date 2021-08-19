@@ -18,3 +18,5 @@
 
 - ### _Projetos em C#_
 
+- ### _Python_
+
