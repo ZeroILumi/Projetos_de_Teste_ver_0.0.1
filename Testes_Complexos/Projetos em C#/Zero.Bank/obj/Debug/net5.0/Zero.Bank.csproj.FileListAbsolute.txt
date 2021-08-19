@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Bank\bin\Debug\net5.0\Zero.Bank.exe
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Bank\bin\Debug\net5.0\Zero.Bank.deps.json
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Bank\bin\Debug\net5.0\Zero.Bank.runtimeconfig.json
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Bank\bin\Debug\net5.0\Zero.Bank.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Bank\bin\Debug\net5.0\Zero.Bank.dll
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Bank\bin\Debug\net5.0\ref\Zero.Bank.dll
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Bank\bin\Debug\net5.0\Zero.Bank.pdb
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Bank\obj\Debug\net5.0\Zero.Bank.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Bank\obj\Debug\net5.0\Zero.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Bank\obj\Debug\net5.0\Zero.Bank.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Bank\obj\Debug\net5.0\Zero.Bank.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Bank\obj\Debug\net5.0\Zero.Bank.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Bank\obj\Debug\net5.0\Zero.Bank.dll
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Bank\obj\Debug\net5.0\ref\Zero.Bank.dll
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Bank\obj\Debug\net5.0\Zero.Bank.pdb
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Bank\obj\Debug\net5.0\Zero.Bank.genruntimeconfig.cache

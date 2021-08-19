@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Series\bin\Debug\net5.0\Zero.Series.exe
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Series\bin\Debug\net5.0\Zero.Series.deps.json
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Series\bin\Debug\net5.0\Zero.Series.runtimeconfig.json
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Series\bin\Debug\net5.0\Zero.Series.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Series\bin\Debug\net5.0\Zero.Series.dll
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Series\bin\Debug\net5.0\ref\Zero.Series.dll
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Series\bin\Debug\net5.0\Zero.Series.pdb
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Series\obj\Debug\net5.0\Zero.Series.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Series\obj\Debug\net5.0\Zero.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Series\obj\Debug\net5.0\Zero.Series.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Series\obj\Debug\net5.0\Zero.Series.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Series\obj\Debug\net5.0\Zero.Series.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Series\obj\Debug\net5.0\Zero.Series.dll
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Series\obj\Debug\net5.0\ref\Zero.Series.dll
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Series\obj\Debug\net5.0\Zero.Series.pdb
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Zero.Series\obj\Debug\net5.0\Zero.Series.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Validador_e_Calculador_de_Media_Zero\bin\Debug\net5.0\Validador_e_Calculador_de_Media_Zero.exe
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Validador_e_Calculador_de_Media_Zero\bin\Debug\net5.0\Validador_e_Calculador_de_Media_Zero.deps.json
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Validador_e_Calculador_de_Media_Zero\bin\Debug\net5.0\Validador_e_Calculador_de_Media_Zero.runtimeconfig.json
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Validador_e_Calculador_de_Media_Zero\bin\Debug\net5.0\Validador_e_Calculador_de_Media_Zero.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Validador_e_Calculador_de_Media_Zero\bin\Debug\net5.0\Validador_e_Calculador_de_Media_Zero.dll
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Validador_e_Calculador_de_Media_Zero\bin\Debug\net5.0\ref\Validador_e_Calculador_de_Media_Zero.dll
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Validador_e_Calculador_de_Media_Zero\bin\Debug\net5.0\Validador_e_Calculador_de_Media_Zero.pdb
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Validador_e_Calculador_de_Media_Zero\obj\Debug\net5.0\Validador_e_Calculador_de_Media_Zero.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Validador_e_Calculador_de_Media_Zero\obj\Debug\net5.0\Validador_e_Calculador_de_Media_Zero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Validador_e_Calculador_de_Media_Zero\obj\Debug\net5.0\Validador_e_Calculador_de_Media_Zero.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Validador_e_Calculador_de_Media_Zero\obj\Debug\net5.0\Validador_e_Calculador_de_Media_Zero.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Validador_e_Calculador_de_Media_Zero\obj\Debug\net5.0\Validador_e_Calculador_de_Media_Zero.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Validador_e_Calculador_de_Media_Zero\obj\Debug\net5.0\Validador_e_Calculador_de_Media_Zero.dll
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Validador_e_Calculador_de_Media_Zero\obj\Debug\net5.0\ref\Validador_e_Calculador_de_Media_Zero.dll
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Validador_e_Calculador_de_Media_Zero\obj\Debug\net5.0\Validador_e_Calculador_de_Media_Zero.pdb
+C:\Users\Usuario\Desktop\Zero\Trabalho\Projetos C#\Validador_e_Calculador_de_Media_Zero\obj\Debug\net5.0\Validador_e_Calculador_de_Media_Zero.genruntimeconfig.cache

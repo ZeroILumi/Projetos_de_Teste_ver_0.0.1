@@ -1,0 +1,64 @@
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\obj\Debug\net5.0\Classes e Objetos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\obj\Debug\net5.0\Classes e Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\obj\Debug\net5.0\Classes e Objetos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\obj\Debug\net5.0\Classes e Objetos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\obj\Debug\net5.0\Classes e Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\bin\Debug\net5.0\Classes e Objetos.exe
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\bin\Debug\net5.0\Classes e Objetos.deps.json
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\bin\Debug\net5.0\Classes e Objetos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\bin\Debug\net5.0\Classes e Objetos.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\bin\Debug\net5.0\Classes e Objetos.dll
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\bin\Debug\net5.0\ref\Classes e Objetos.dll
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\bin\Debug\net5.0\Classes e Objetos.pdb
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\obj\Debug\net5.0\Classes e Objetos.dll
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\obj\Debug\net5.0\ref\Classes e Objetos.dll
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\obj\Debug\net5.0\Classes e Objetos.pdb
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\obj\Debug\net5.0\Classes e Objetos.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi\bin\Debug\net5.0\Classes e Objetos.exe
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi\bin\Debug\net5.0\Classes e Objetos.deps.json
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi\bin\Debug\net5.0\Classes e Objetos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi\bin\Debug\net5.0\Classes e Objetos.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi\bin\Debug\net5.0\Classes e Objetos.dll
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi\bin\Debug\net5.0\ref\Classes e Objetos.dll
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi\bin\Debug\net5.0\Classes e Objetos.pdb
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi\obj\Debug\net5.0\Classes e Objetos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi\obj\Debug\net5.0\Classes e Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi\obj\Debug\net5.0\Classes e Objetos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi\obj\Debug\net5.0\Classes e Objetos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi\obj\Debug\net5.0\Classes e Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi\obj\Debug\net5.0\Classes e Objetos.dll
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi\obj\Debug\net5.0\ref\Classes e Objetos.dll
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi\obj\Debug\net5.0\Classes e Objetos.pdb
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi\obj\Debug\net5.0\Classes e Objetos.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.1\bin\Debug\net5.0\Classes e Objetos.exe
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.1\bin\Debug\net5.0\Classes e Objetos.deps.json
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.1\bin\Debug\net5.0\Classes e Objetos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.1\bin\Debug\net5.0\Classes e Objetos.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.1\bin\Debug\net5.0\Classes e Objetos.dll
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.1\bin\Debug\net5.0\ref\Classes e Objetos.dll
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.1\bin\Debug\net5.0\Classes e Objetos.pdb
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.1\obj\Debug\net5.0\Classes e Objetos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.1\obj\Debug\net5.0\Classes e Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.1\obj\Debug\net5.0\Classes e Objetos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.1\obj\Debug\net5.0\Classes e Objetos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.1\obj\Debug\net5.0\Classes e Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.1\obj\Debug\net5.0\Classes e Objetos.dll
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.1\obj\Debug\net5.0\ref\Classes e Objetos.dll
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.1\obj\Debug\net5.0\Classes e Objetos.pdb
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.1\obj\Debug\net5.0\Classes e Objetos.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.2\bin\Debug\net5.0\Classes e Objetos.exe
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.2\bin\Debug\net5.0\Classes e Objetos.deps.json
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.2\bin\Debug\net5.0\Classes e Objetos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.2\bin\Debug\net5.0\Classes e Objetos.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.2\bin\Debug\net5.0\Classes e Objetos.dll
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.2\bin\Debug\net5.0\ref\Classes e Objetos.dll
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.2\bin\Debug\net5.0\Classes e Objetos.pdb
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.2\obj\Debug\net5.0\Classes e Objetos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.2\obj\Debug\net5.0\Classes e Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.2\obj\Debug\net5.0\Classes e Objetos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.2\obj\Debug\net5.0\Classes e Objetos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.2\obj\Debug\net5.0\Classes e Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.2\obj\Debug\net5.0\Classes e Objetos.dll
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.2\obj\Debug\net5.0\ref\Classes e Objetos.dll
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.2\obj\Debug\net5.0\Classes e Objetos.pdb
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Carinho_de_Compras_Autor_ZeroILumi Alpha ver 0.2\obj\Debug\net5.0\Classes e Objetos.genruntimeconfig.cache

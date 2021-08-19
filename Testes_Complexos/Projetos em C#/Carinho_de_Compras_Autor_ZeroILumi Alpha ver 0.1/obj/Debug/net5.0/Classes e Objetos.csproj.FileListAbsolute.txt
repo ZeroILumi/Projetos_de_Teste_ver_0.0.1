@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\obj\Debug\net5.0\Classes e Objetos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\obj\Debug\net5.0\Classes e Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\obj\Debug\net5.0\Classes e Objetos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\obj\Debug\net5.0\Classes e Objetos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\obj\Debug\net5.0\Classes e Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\bin\Debug\net5.0\Classes e Objetos.exe
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\bin\Debug\net5.0\Classes e Objetos.deps.json
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\bin\Debug\net5.0\Classes e Objetos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\bin\Debug\net5.0\Classes e Objetos.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\bin\Debug\net5.0\Classes e Objetos.dll
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\bin\Debug\net5.0\ref\Classes e Objetos.dll
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\bin\Debug\net5.0\Classes e Objetos.pdb
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\obj\Debug\net5.0\Classes e Objetos.dll
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\obj\Debug\net5.0\ref\Classes e Objetos.dll
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\obj\Debug\net5.0\Classes e Objetos.pdb
+C:\Users\Usuario\Desktop\Trabalho\Projetos C#\Classes e Objetos\obj\Debug\net5.0\Classes e Objetos.genruntimeconfig.cache

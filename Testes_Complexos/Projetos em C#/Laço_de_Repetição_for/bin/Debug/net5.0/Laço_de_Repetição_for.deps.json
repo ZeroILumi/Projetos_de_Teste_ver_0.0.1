@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Laço_de_Repetição_for/1.0.0": {
+        "runtime": {
+          "Laço_de_Repetição_for.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laço_de_Repetição_for/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
