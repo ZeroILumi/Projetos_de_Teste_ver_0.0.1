@@ -4,6 +4,7 @@ from django.contrib.auth.decorators import login_required
 from django.contrib.auth import authenticate, login, logout
 from django.contrib import messages
 
+
 # Create your views here.
 
 # def index(request):
@@ -33,6 +34,25 @@ def listar_eventos_agendados(request):
     return render(request, 'zero_ilumi_agenda.html', dados)
 
 
+@login_required(login_url='/login/')
 def logout_user(request):
     logout(request)
+    return redirect('/')
+
+
+@login_required(login_url='/login/')
+def evento(request):
+    return render(request, 'evento.html')
+
+@login_required(login_url='/login/')
+def submit_evento(request):
+    if request.POST:
+        usuario = request.user
+        titulo = request.POST.get('titulo_agendamento_novo')
+        descricao = request.POST.get('input_descricao_agendamento_novo')
+        data_do_evento = request.POST.get('data_do_evento_agendamento_novo')
+        Evento_Agendado.objects.create(titulo_do_evento_agendado=titulo,
+                                       decricao_do_evento_agendado=descricao,
+                                       data_do_evento_agendado=data_do_evento,
+                                       usuario=usuario)
     return redirect('/')
