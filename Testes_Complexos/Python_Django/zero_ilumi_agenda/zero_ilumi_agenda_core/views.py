@@ -42,7 +42,11 @@ def logout_user(request):
 
 @login_required(login_url='/login/')
 def evento(request):
-    return render(request, 'evento.html')
+    id_evento = request.GET.get('id')
+    dados = {}
+    if id_evento:
+        dados['evento'] = Evento_Agendado.objects.get(id=id_evento)
+    return render(request, 'evento.html', dados)
 
 @login_required(login_url='/login/')
 def submit_evento(request):
@@ -51,8 +55,33 @@ def submit_evento(request):
         titulo = request.POST.get('titulo_agendamento_novo')
         descricao = request.POST.get('input_descricao_agendamento_novo')
         data_do_evento = request.POST.get('data_do_evento_agendamento_novo')
-        Evento_Agendado.objects.create(titulo_do_evento_agendado=titulo,
-                                       decricao_do_evento_agendado=descricao,
-                                       data_do_evento_agendado=data_do_evento,
-                                       usuario=usuario)
+        local_do_evento = request.POST.get('local_do_evento_agendamento_novo')
+        id_evento = request.POST.get('id_evento')
+        if id_evento:
+            evento = Evento_Agendado.objects.get(id=id_evento)
+            if usuario == evento.usuario:
+                evento.titulo_do_evento_agendado = titulo
+                evento.data_do_evento_agendado = data_do_evento
+                evento.decricao_do_evento_agendado = descricao
+                evento.save()
+            # Evento_Agendado.objects.filter(id=id_evento).update(titulo_do_evento_agendado=titulo,
+            #                                                     data_do_evento_agendado=data_do_evento,
+            #                                                     decricao_do_evento_agendado=descricao)
+        else:
+            Evento_Agendado.objects.create(usuario=usuario,
+                                           titulo_do_evento_agendado=titulo,
+                                           decricao_do_evento_agendado=descricao,
+                                           data_do_evento_agendado=data_do_evento,
+                                           local_do_evento_agenda=local_do_evento)
     return redirect('/')
+
+@login_required(login_url='/login/')
+def delete_evento(request, id_evento):
+    usuario = request.user
+    evento = Evento_Agendado.objects.get(id=id_evento)
+    if usuario == evento.usuario:
+        evento.delete()
+    return redirect('/')
+
+
+
